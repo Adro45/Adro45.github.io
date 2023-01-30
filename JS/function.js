@@ -1,5 +1,4 @@
 document.getElementById("obj1").style.display = "none"
-    
 
 document.getElementById('boton').onclick = function () {var x = document.getElementById("obj1");
     if (x.style.display === "none") {
@@ -7,7 +6,4 @@ document.getElementById('boton').onclick = function () {var x = document.getElem
     } else {
       x.style.display = "none";
     }
-    }
-
-
-  
+    }  
