@@ -1,0 +1,80 @@
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+header, section, footer { 
+    color:  rgb(56, 17, 31);
+    font-family:'Roboto', sans-serif;
+    background-color: rgb(190, 202, 200);
+    border: 15px solid rgb(115, 165, 115);
+    outline: solid  rgb(27, 60, 83);
+    padding: 30px;
+    margin: 20px;
+}
+/*
+Trabajar con ID y Class*/
+/*Selectores, Si hay un Section y dentro un h1, podemos poner Section h1 y definir parámetros*/
+
+header {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+#estudios {
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(76, 128, 109);
+    font-size: 23px;
+}
+
+img {
+    display: block;
+    width: 250px;
+    height: 250px;
+} 
+
+section {
+    outline: solid  rgb(27, 60, 83);
+    font-size:  20px;
+    display: flex;
+    justify-content: center;
+}
+
+aside {
+    margin: 0px 60px 0px 60px;
+}
+
+h1 {
+    margin-top: 75px;
+    font-size: 35px;
+}
+
+h2 {
+    margin: 40px 0px 40px 0px;
+    color: rgb(27, 60, 83);
+    font-size:  25px;
+}
+
+li {
+    font-size:  23px;
+}
+
+footer {
+    padding-left: 33.3%;
+}
+
+.pie, i {
+    color: rgb(16, 68, 51);
+    font-weight: bold;
+}
+
+.boton {
+    margin-left: 70%;
+}
+
+#obj1 {
+    color: rgb(18, 71, 54);
+}
