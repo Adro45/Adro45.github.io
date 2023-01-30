@@ -1,0 +1,77 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV_TFinal_OrtizBialous</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="CSS/index.css">
+    <enlace rel="preconectar" href="https://fonts.googleapis.com">
+    <enlace rel="preconectar" href="https://fonts.gstatic.com" crossorigin>
+    <enlace href="https: //fonts.googleapis.com/css2? family= Roboto:wght@900 & family= Sofia+Sans:wght@200 & display=swap" rel="stylesheet">
+    <title>Curriculum Vitae</title>
+        <!-- Open Graph data -->
+    <meta property="og:title" content="CV entrega ArProg 4.0" />
+    <meta property="og:type" content="Esto es un CV ficticio" />
+    <meta property="og:url" content=" http://www.example.com" />
+    <meta property="og:image" content=" http://example.com/image.jpg" />
+    <meta property="og:description" content="Este documento incluye html, css y js" />
+</head>
+
+<body>
+     
+    <header>
+        <h1>BEATRIZ MIRANDA</h1> 
+        <h2>SENIOR DEVELOPER</h2>
+       
+    </header>
+        <section> 
+            <img src="https://randomuser.me/api/portraits/women/71.jpg" alt="Foto de Becky Hudson";>
+            </ul>   
+                <li>CONTACTO</li>
+                    <H3>b.miranda.1965@example.com</H3>
+                    <H3>+54 299 5696061</H3>
+                    <H3>@b.miranda</H3>
+                    <H3>Calle Trinidad N°1234</H3>
+                    <H3>Neuquén-Argentina</H3>
+                <li>PERFIL</li> 
+                    <h3>Edad: 40 años</h3>
+                    <h3>Nacimiento: 15/04/1982</h3>
+                    <h3>Localidad: Río Cuarto</h3>
+                    <h3>Argentina</h3>
+                <li>IDIOMAS</li>
+                    <h3>Inglés intermedio</h3>
+                    <h3>Polaco avanzado</h3>
+        </section>
+
+            <aside> 
+                <Li>HABILIDADES</li>
+                    <h3>Comunicación clara</h3>
+                    <h3>Adaptación al cambio</h3>
+                    <h3>Gestión de tiempo</h3>
+                    <h3>Resolución de problemas</h3>
+                    <h3>Responsabilidad</h3>
+                <li>EXPERIENCIA</li>
+                    <P>Programador Web</P>
+                    <p>BPN</p>
+                    <p>Agosto 2010 al presente</p>
+                    <p> Escribí el código una página web con la capacidad de recibir a más de un millón de usuarios diariamente.</p>
+                    <p>Responsable de crear un comparador de tarjetas de crédito que elevó las ventas de producto en un 15%.</p>
+                    <p>Desarrollé una aplicación bancaria especializada en seguros de cajas de ahorro</p>
+                <li>ESTUDIOS</li>
+                    <P>CUBI HR</P>
+                    <p>Desarrollador Web</p>
+                    <p>2005-2009</p>
+                    <P>Universidad del sur</P>
+                    <p>Tecnicatura Superior en computación</p>
+                    <p>2000-2004</p>
+            </aside>
+       
+            <footer></footer>
+</style>
+</body>
+</html>
